@@ -6,7 +6,7 @@ package printgrades;
 
 /**
  *
- * @author iandl
+ * @author delacria
  */
 public class GradeCodes {
     
